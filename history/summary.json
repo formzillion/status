@@ -22,18 +22,20 @@
     "url": "https://app.formzillion.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.formzillion.com.ico",
     "slug": "app-formzillion-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2269,
-    "timeDay": 3057,
-    "timeWeek": 2343,
-    "timeMonth": 2269,
-    "timeYear": 2269,
-    "dailyMinutesDown": {}
+    "time": 2360,
+    "timeDay": 3347,
+    "timeWeek": 2504,
+    "timeMonth": 2360,
+    "timeYear": 2360,
+    "dailyMinutesDown": {
+      "2023-05-20": 0
+    }
   },
   {
     "name": "docs.formzillion.com",
