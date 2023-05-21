@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 375,
-    "timeWeek": 171,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 227,
+    "timeDay": 94,
+    "timeWeek": 141,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.formzillion.com.ico",
     "slug": "app-formzillion-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2360,
-    "timeDay": 3347,
-    "timeWeek": 2504,
-    "timeMonth": 2360,
-    "timeYear": 2360,
+    "uptime": "94.69%",
+    "uptimeDay": "39.08%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "94.69%",
+    "time": 2431,
+    "timeDay": 3570,
+    "timeWeek": 2632,
+    "timeMonth": 2431,
+    "timeYear": 2431,
     "dailyMinutesDown": {
-      "2023-05-20": 0
+      "2023-05-21": 45,
+      "2023-05-20": 832
     }
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 272,
-    "timeWeek": 111,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 102,
+    "timeDay": 33,
+    "timeWeek": 101,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   }
 ]
