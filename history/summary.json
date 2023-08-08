@@ -4,10 +4,10 @@
     "url": "https://formzillion.com",
     "icon": "https://icons.duckduckgo.com/ip3/formzillion.com.ico",
     "slug": "formzillion-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 284,
@@ -16,6 +16,7 @@
     "timeMonth": 341,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2023-08-08": 1,
       "2023-05-30": 21,
       "2023-05-25": 19
     }
@@ -48,7 +49,7 @@
     "url": "https://docs.formzillion.com",
     "icon": "https://icons.duckduckgo.com/ip3/docs.formzillion.com.ico",
     "slug": "docs-formzillion-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +61,7 @@
     "timeMonth": 157,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2023-08-08": 0,
       "2023-05-30": 20
     }
   }
