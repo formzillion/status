@@ -4,9 +4,9 @@
     "url": "https://formzillion.com",
     "icon": "https://icons.duckduckgo.com/ip3/formzillion.com.ico",
     "slug": "formzillion-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 182,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2023-12-05": 0,
       "2023-05-30": 21,
       "2023-05-25": 19
     }
@@ -26,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.formzillion.com.ico",
     "slug": "app-formzillion-com",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 2204,
     "timeDay": 2272,
     "timeWeek": 1976,
