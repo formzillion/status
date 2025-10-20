@@ -1,7 +1,7 @@
 url: https://app.formzillion.com
-status: up
-code: 200
-responseTime: 2954
-lastUpdated: 2025-10-19T23:51:16.124Z
+status: down
+code: 500
+responseTime: 3404
+lastUpdated: 2025-10-20T06:57:48.957Z
 startTime: 2023-05-09T13:30:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
