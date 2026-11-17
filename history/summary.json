@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/formzillion.com.ico",
     "slug": "formzillion-com",
     "status": "down",
-    "uptime": "71.28%",
+    "uptime": "71.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 149,
-    "timeDay": 117,
-    "timeWeek": 132,
-    "timeMonth": 127,
-    "timeYear": 131,
+    "time": 148,
+    "timeDay": 76,
+    "timeWeek": 128,
+    "timeMonth": 126,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-11-16": 239,
+      "2026-11-17": 352,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -379,8 +380,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.formzillion.com.ico",
     "slug": "app-formzillion-com",
     "status": "down",
-    "uptime": "71.18%",
+    "uptime": "71.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 730,
-    "timeDay": 84,
-    "timeWeek": 104,
-    "timeMonth": 112,
+    "time": 728,
+    "timeDay": 97,
+    "timeWeek": 103,
+    "timeMonth": 113,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-11-16": 240,
+      "2026-11-17": 352,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -763,8 +764,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.formzillion.com.ico",
     "slug": "docs-formzillion-com",
     "status": "down",
-    "uptime": "45.72%",
+    "uptime": "45.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 240,
+      "2026-11-17": 352,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1147,8 +1148,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   }
 ]
